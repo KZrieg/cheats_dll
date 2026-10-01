@@ -49,6 +49,7 @@ Generated\ Files/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+.py
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
@@ -361,3 +362,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/csgo/gen_config.py
