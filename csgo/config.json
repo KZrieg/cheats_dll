@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "name": "aimware.dll",
+      "url": "https://raw.githubusercontent.com/KZrieg/cheats_dll/master/csgo/aimware.dll",
+      "size": 2736128,
+      "sha256": "b9cbc642685541ce53cd560fc1c40b720731179c918833df02e2ae0b60dfc8c0"
+    },
+    {
+      "name": "neverlose.dll",
+      "url": "https://raw.githubusercontent.com/KZrieg/cheats_dll/master/csgo/neverlose.dll",
+      "size": 62201344,
+      "sha256": "7c54042065cb9f89deacaab07922c523eef622cd7ad51f5328f9d35fafb19645"
+    },
+    {
+      "name": "primordial.dll",
+      "url": "https://raw.githubusercontent.com/KZrieg/cheats_dll/master/csgo/primordial.dll",
+      "size": 23786496,
+      "sha256": "2c53efde9b9cc5f5eab54d30aef44c4e7a6a4eedd4abdb2cfbe95dba186792dd"
+    },
+    {
+      "name": "skeet.dll",
+      "url": "https://raw.githubusercontent.com/KZrieg/cheats_dll/master/csgo/skeet.dll",
+      "size": 13930496,
+      "sha256": "2e2fa7eb66ec5aa813d43c829e9bd2b4728793eab9f1300b07b25226848de607"
+    }
+  ]
+}
